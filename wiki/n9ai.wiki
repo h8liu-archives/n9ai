@@ -1,8 +1,10 @@
 #namespace of the programming
 
-== Introduction ==
+= EDota =
 
-introduction goes here.
+== 测试一下中文 ==
+
+这里是规则~
 
 
 == Details ==
