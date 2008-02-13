@@ -1,11 +1,11 @@
 #namespace of the programming
 
-= Introduction =
+== Introduction ==
 
 introduction goes here.
 
 
-= Details =
+== Details ==
 
 details goes here.
   * Text in *bold* or _italic_
