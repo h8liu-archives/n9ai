@@ -1,8 +1,10 @@
 #namespace of the programming
 
-= EDota =
+= EDota 游戏规则 =
 
 == 测试一下中文 ==
+
+=== 测试一下中文 ===
 
 这里是规则~
 
