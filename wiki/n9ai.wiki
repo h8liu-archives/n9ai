@@ -1,0 +1,13 @@
+#namespace of the programming
+
+= Introduction =
+
+introduction goes here.
+
+
+= Details =
+
+details goes here.
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
