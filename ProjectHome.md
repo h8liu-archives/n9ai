@@ -1,0 +1,1 @@
+The project includes a general platform and several games running on the platform.
